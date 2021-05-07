@@ -5,6 +5,6 @@ I'm Karen Valadez,
 - 🔭 I'm currently working on creating and starting off my career.
 - 🌱 I’m currently learning Full Stack Web Software Development through Codeup.
 - 👯 I’m looking to collaborate on projects and ideas with fellow students and future employers.
-- 📫 How to reach me: You can e-mail me at valadez.karen04@gmail.com
+- 📫 How to reach me: valadez.karen04@gmail.com
 - ⚡ Fun fact: I like K-Pop n.n
 
