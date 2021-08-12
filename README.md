@@ -1,5 +1,6 @@
 ### Hi 👋
-![kirby.gif](https://raw.githubusercontent.com/valadezkaren04/valadezkaren04/main/kirby.gif) 
+![moonlight.gif](https://raw.githubusercontent.com/valadezkaren04/valadezkaren04/main/moonlight.gif)
+<!-- ![kirby.gif](https://raw.githubusercontent.com/valadezkaren04/valadezkaren04/main/kirby.gif)  -->
 
 I'm Karen Valadez,
 - 🔭 I'm currently working on creating and starting off my career.
