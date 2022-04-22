@@ -10,7 +10,7 @@
 
 <p align="center"> 📫 How to reach me: valadez.karen04@gmail.com </p>
 <p align="center"> 🔭 I'm currently working on creating and starting off my career. </p>
-<p align="center"> 🌱 I’m currently learning Full Stack Software Web Development through Codeup. </p>
+<p align="center"> 🌱 Graduated Software Developer from Codeup. </p>
 <p align="center"> 👯 I’m looking foward to collaborate on projects and ideas with fellow students and future employers. </p>
 <p align="center"> ⚡ Fun fact: I'm a Potterhead ⚡ Slytherin</p>
 
