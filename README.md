@@ -9,9 +9,9 @@
 <!-- ![kirby.gif](https://raw.githubusercontent.com/valadezkaren04/valadezkaren04/main/kirby.gif)  -->
 
 <p align="center"> 📫 How to reach me: valadez.karen04@gmail.com </p>
-<p align="center"> 🔭 I'm currently starting off my career. </p>
+<p align="center"> 🔭 I enjoy learning new things </p>
 <p align="center"> 🌱 Graduated Software Developer from Codeup. </p>
-<p align="center"> 👯 I’m looking foward to collaborate on projects and ideas with fellow students and future employers. </p>
+<p align="center"> 👯 I’m looking foward to collaborate on projects and ideas with fellow co-workers and future employers. </p>
 <p align="center"> ⚡ Fun fact: I'm a Potterhead ⚡ Slytherin</p>
 
 
