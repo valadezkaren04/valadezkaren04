@@ -5,7 +5,7 @@
 <p align="center">
   Karen Valadez
 </p>
-<!-- ![moonlight.gif](https://raw.githubusercontent.com/valadezkaren04/valadezkaren04/main/moonlight.gif) -->
+<!-- ![](https://i.pinimg.com/originals/cb/22/60/cb22603604e36d1caab7cc4e729506c9.gif) -->
 <!-- ![kirby.gif](https://raw.githubusercontent.com/valadezkaren04/valadezkaren04/main/kirby.gif)  -->
 
 <p align="center"> 📫 How to reach me: valadez.karen04@gmail.com </p>
